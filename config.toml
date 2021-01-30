@@ -3,3 +3,5 @@ languageCode = "en-us"
 title = "My /dev/random"
 theme="papercss"
 publishDir="docs"
+googleAnalytics = "260492591"
+
