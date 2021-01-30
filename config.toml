@@ -1,0 +1,5 @@
+baseURL = "https://pramodhkp.com/"
+languageCode = "en-us"
+title = "My /dev/random"
+theme="papercss"
+publishDir="docs"
