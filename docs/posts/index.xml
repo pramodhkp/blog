@@ -17,7 +17,8 @@
       <pubDate>Sat, 28 Sep 2019 23:15:50 +0530</pubDate>
       
       <guid>https://pramodhkp.github.io/blog/posts/first-post/</guid>
-      <description></description>
+      <description> Test post to check different aspects of the post This is some test code
+def hello(): print(&amp;quot;Hello, world!&amp;quot;)  </description>
     </item>
     
   </channel>
