@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>techmonk.com/posts/first-post/</loc>
+    <loc>https://techmonk.com/posts/first-post/</loc>
     <lastmod>2019-09-28T23:15:50+05:30</lastmod>
   </url>
   
   <url>
-    <loc>techmonk.com/</loc>
+    <loc>https://techmonk.com/</loc>
     <lastmod>2019-09-28T23:15:50+05:30</lastmod>
   </url>
   
   <url>
-    <loc>techmonk.com/posts/</loc>
+    <loc>https://techmonk.com/posts/</loc>
     <lastmod>2019-09-28T23:15:50+05:30</lastmod>
   </url>
   
   <url>
-    <loc>techmonk.com/categories/</loc>
+    <loc>https://techmonk.com/categories/</loc>
   </url>
   
   <url>
-    <loc>techmonk.com/tags/</loc>
+    <loc>https://techmonk.com/tags/</loc>
   </url>
   
 </urlset>
