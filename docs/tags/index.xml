@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My /dev/random</title>
-    <link>https://pramodhkp.github.io/blog/tags/</link>
+    <link>techmonk.com/tags/</link>
     <description>Recent content in Tags on My /dev/random</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pramodhkp.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="techmonk.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,4 +1,4 @@
-baseURL = "https://pramodhkp.github.io/blog"
+baseURL = "techmonk.com"
 languageCode = "en-us"
 title = "My /dev/random"
 theme="papercss"
