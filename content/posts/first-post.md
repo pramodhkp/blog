@@ -1,17 +1,7 @@
 ---
-title: "First Post"
-date: 2019-09-28T23:15:50+05:30
-draft: true
+title: "First Post - Back to blogging!"
+date: Monday 01 February 2021 10:02:58 PM
 ---
 
-
-## Test post to check different aspects of the post
-
-This is some test code
-
-```
-def hello():
-	print("Hello, world!")
-```
-
+Starting back a good habit again! I'll be logging anything new and interesting that I learn under this. Maybe it'll be useful for others too. Come back a few days later to find more content.
 
