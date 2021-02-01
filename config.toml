@@ -1,4 +1,4 @@
-baseURL = "techmonk.com"
+baseURL = "https://techmonk.com"
 languageCode = "en-us"
 title = "My /dev/random"
 theme="papercss"
